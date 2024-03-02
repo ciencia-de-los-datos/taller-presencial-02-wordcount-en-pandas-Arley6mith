@@ -10,7 +10,7 @@ def load_input(input_directory):
     #
     # Lea los archivos de texto en la carpeta input/ y almacene el contenido en
     # un DataFrame de Pandas. Cada línea del archivo de texto debe ser una
-    # entrada en el DataFrame.
+    # entrada en el DataFrame . 
     #
     
     filenames = glob.glob(f"{input_directory}/*.txt")
