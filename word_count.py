@@ -74,7 +74,7 @@ def save_output(dataframe, output_filename):
 
 
 #
-# Escriba la función job, la cual orquesta las funciones anteriores.
+# Escriba la función  job, la cual orquesta las funciones anteriores.
 #
 def run(input_directory, output_filename):
     """Call all functions."""
